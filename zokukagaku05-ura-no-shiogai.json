@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ura-no-shiogai",
  "yomi": "うらのしおがい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "弘化2年（1845）9月序",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "香川景樹の高弟熊谷直好の家集。門人が師から託された若い頃の詠草に、人々が書き留めた歌を加えて編んだと序にいう。四季・恋・雑に分ける。"
+ },
  "editions": [
   {
    "pid": "993383",
